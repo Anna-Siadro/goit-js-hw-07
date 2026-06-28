@@ -22,10 +22,10 @@ body {
 
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+
   row-gap: 48px;
   column-gap: 24px;
-
-  width: 1128px;
 }
 
 .gallery-item {
